@@ -1,3 +1,4 @@
 # kakao clone 2020
 
-first studying foreal html, css, and javascript.
+First studying foreal html, css, and javascript.
+Following along NomadCoder Tutorial...!
